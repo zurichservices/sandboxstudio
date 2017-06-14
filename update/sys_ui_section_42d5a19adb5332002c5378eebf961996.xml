@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="dcc2e1dedbdb32001b10d8c0cf9619ed" sys_domain="global" table="x_98279_zurich_col_zurich_chat_queue" version="3" view="">
+    <sys_ui_section caption="" section_id="42d5a19adb5332002c5378eebf961996" sys_domain="global" table="x_98279_zurich_col_zurich_chat_queue" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>80d2e5dedbdb32001b10d8c0cf9619e9</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>f206a59adb5332002c5378eebf9619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>active</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>04d2e5dedbdb32001b10d8c0cf9619e9</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>7606a59adb5332002c5378eebf9619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>84d2e5dedbdb32001b10d8c0cf9619e9</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>f606a59adb5332002c5378eebf9619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>assignment_group</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>08d2e5dedbdb32001b10d8c0cf9619e9</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>7a06a59adb5332002c5378eebf9619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>average_wait_time</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>88d2e5dedbdb32001b10d8c0cf9619e9</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>fa06a59adb5332002c5378eebf9619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>.end_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>0cd2e5dedbdb32001b10d8c0cf9619e9</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>7e06a59adb5332002c5378eebf9619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>confirm_problem</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>8cd2e5dedbdb32001b10d8c0cf9619e9</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>fe06a59adb5332002c5378eebf9619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>escalate_to</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>00d2e5dedbdb32001b10d8c0cf9619ea</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>7206a59adb5332002c5378eebf9619e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>initial_agent_response</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>80d2e5dedbdb32001b10d8c0cf9619ea</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>f206a59adb5332002c5378eebf9619e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>not_available</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>04d2e5dedbdb32001b10d8c0cf9619ea</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>7606a59adb5332002c5378eebf9619e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>question</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>84d2e5dedbdb32001b10d8c0cf9619ea</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>f606a59adb5332002c5378eebf9619e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>schedule</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>08d2e5dedbdb32001b10d8c0cf9619ea</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>7a06a59adb5332002c5378eebf9619e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>support_link</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>88d2e5dedbdb32001b10d8c0cf9619ea</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>fa06a59adb5332002c5378eebf9619e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>language</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:48</sys_created_on>
-            <sys_id>0cd2e5dedbdb32001b10d8c0cf9619ea</sys_id>
+            <sys_created_on>2017-06-14 02:38:55</sys_created_on>
+            <sys_id>7e06a59adb5332002c5378eebf9619e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">dcc2e1dedbdb32001b10d8c0cf9619ed</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_98279_zurich_col_zurich_chat_queue" sys_domain="global" view="Default view">42d5a19adb5332002c5378eebf961996</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:48</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -204,11 +204,11 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-14 02:24:33</sys_created_on>
+            <sys_created_on>2017-06-14 02:38:03</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dcc2e1dedbdb32001b10d8c0cf9619ed</sys_id>
+            <sys_id>42d5a19adb5332002c5378eebf961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_98279_zurich_col_zurich_chat_queue</sys_name>
             <sys_overrides/>
@@ -216,9 +216,9 @@
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Zurich Collaborate">0d00ad9edb9b32001b10d8c0cf96195e</sys_scope>
-            <sys_update_name>sys_ui_section_dcc2e1dedbdb32001b10d8c0cf9619ed</sys_update_name>
+            <sys_update_name>sys_ui_section_42d5a19adb5332002c5378eebf961996</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-14 02:24:33</sys_updated_on>
+            <sys_updated_on>2017-06-14 02:38:03</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

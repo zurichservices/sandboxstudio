@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Collaborate">286c5eed9f912200804fbd2e052e70a3</application>
+        <filter/>
+        <name>Zurich Chat Queues</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_98279_zurich_col.zurich_chat_queue_use</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-14 02:19:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4db1e99edbdb32001b10d8c0cf9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zurich Chat Queues</sys_name>
+        <sys_package display_value="Zurich Collaborate" source="x_98279_zurich_col">0d00ad9edb9b32001b10d8c0cf96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Zurich Collaborate">0d00ad9edb9b32001b10d8c0cf96195e</sys_scope>
+        <sys_update_name>sys_ui_module_4db1e99edbdb32001b10d8c0cf9619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-14 02:19:57</sys_updated_on>
+        <table>x_98279_zurich_col_zurich_chat_queue</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

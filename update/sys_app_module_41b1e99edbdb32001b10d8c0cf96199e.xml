@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Collaborate">3bb69c02d73321002ae9602b6e6103b2</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Zurich Chat Queues</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_98279_zurich_col_zurich_chat_queue</name>
+        <order>430</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_98279_zurich_col.zurich_chat_queue_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-14 02:19:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41b1e99edbdb32001b10d8c0cf96199e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Zurich Queues</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Zurich Collaborate" source="x_98279_zurich_col">0d00ad9edb9b32001b10d8c0cf96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Zurich Collaborate">0d00ad9edb9b32001b10d8c0cf96195e</sys_scope>
+        <sys_update_name>sys_app_module_41b1e99edbdb32001b10d8c0cf96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-14 02:29:38</sys_updated_on>
+        <timeline_page/>
+        <title>Zurich Queues</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

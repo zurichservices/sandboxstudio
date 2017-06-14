@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="language" table="x_98279_zurich_col_zurich_chat_queue" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>English</label>
+            <language>en</language>
+            <name>x_98279_zurich_col_zurich_chat_queue</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-14 02:21:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b70221dedbdb32001b10d8c0cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 02:21:45</sys_updated_on>
+            <value>en</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>French</label>
+            <language>en</language>
+            <name>x_98279_zurich_col_zurich_chat_queue</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-14 02:23:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0062a1dedbdb32001b10d8c0cf961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 02:23:03</sys_updated_on>
+            <value>fr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Italian</label>
+            <language>en</language>
+            <name>x_98279_zurich_col_zurich_chat_queue</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-14 02:23:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7572219edbdb32001b10d8c0cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 02:23:25</sys_updated_on>
+            <value>it</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>German</label>
+            <language>en</language>
+            <name>x_98279_zurich_col_zurich_chat_queue</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-14 02:23:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2882a1dedbdb32001b10d8c0cf9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 02:23:37</sys_updated_on>
+            <value>de</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spanish</label>
+            <language>en</language>
+            <name>x_98279_zurich_col_zurich_chat_queue</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-14 02:23:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef8221dedbdb32001b10d8c0cf961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 02:23:52</sys_updated_on>
+            <value>es</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>language</element>
+            <name>x_98279_zurich_col_zurich_chat_queue</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-14 02:21:45</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d71221dedbdb32001b10d8c0cf9619dc</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>language</sys_name>
+            <sys_package display_value="Zurich Collaborate" source="x_98279_zurich_col">0d00ad9edb9b32001b10d8c0cf96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Zurich Collaborate">0d00ad9edb9b32001b10d8c0cf96195e</sys_scope>
+            <sys_update_name>sys_choice_x_98279_zurich_col_zurich_chat_queue_language</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 02:23:52</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
